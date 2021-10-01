@@ -1,0 +1,30 @@
+
+        body {
+            background-color: #FFDADA;
+            color: rgb(162, 120, 240);
+        }
+
+        hr {
+
+
+            border-style: none;
+            border-top-style: dotted;
+            border-top-color:grey;
+            border-width: 5px;
+            width: 10%;
+
+        }
+        
+       h1{  color: rgb(250, 178, 84);
+             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  }
+
+
+
+
+        h2{  font-size:40px; 
+            font-weight:bold;
+            color:green;}
+
+
+       
+    

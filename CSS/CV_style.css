@@ -1,0 +1,30 @@
+
+   body
+   {  background-color:blanchedalmond;
+      
+   }
+    h2{
+       color: aquamarine;
+    }
+    h3{
+       color: burlywood;
+    }
+    h4{
+       color: burlywood;
+    }
+    h5{
+       color: burlywood;
+    }
+      hr
+      {   
+         
+         border-style:dotted none none;
+         color: rgb(254, 255, 254);
+         border-width: 5px;
+         width: 100px;
+         height: 0px;
+         
+      }
+
+   
+  
